@@ -4,4 +4,3 @@ pandas
 scikit-learn
 librosa
 soundfile
-tensorflow==2.15.0
