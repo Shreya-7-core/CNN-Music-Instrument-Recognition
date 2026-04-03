@@ -4,4 +4,4 @@ pandas
 scikit-learn
 librosa
 soundfile
-tensorflow-cpu==2.10.0
+tensorflow==2.15.0
