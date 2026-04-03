@@ -3,4 +3,4 @@ numpy
 librosa
 matplotlib
 pillow
-tensorflow-cpu
+tensorflow==2.12.0
